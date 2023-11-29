@@ -2,7 +2,6 @@
 #include "Arduino.h"
 #include "esp8266_def.h"
 #include "trace.h"
-#include "Wire.h"
 
 BlinkTest::BlinkTest():count(0) {
 

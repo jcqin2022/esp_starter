@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+unittest/.vs/*
+unittest/x64/*
